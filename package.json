@@ -1,0 +1,6 @@
+{
+  "name": "brandpulse-proxy",
+  "version": "1.0.0",
+  "description": "NewsAPI proxy for BrandPulse",
+  "private": true
+}
